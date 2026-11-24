@@ -1,0 +1,1 @@
+Tip: your agent just rewrote your code while you blinked. Read the diff, keep what works. You are the senior now, and your intern never sleeps.
